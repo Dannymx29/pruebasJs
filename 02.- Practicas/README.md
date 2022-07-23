@@ -1,2 +1,0 @@
-# pruebas-Js
-primera prueba
